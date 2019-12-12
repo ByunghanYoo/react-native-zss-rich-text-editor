@@ -1,4 +1,4 @@
-import {actions, messages} from './const';
+import { actions, messages } from "./const";
 
 export const InjectedMessageHandler = `
   if (WebViewBridge) {
